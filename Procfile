@@ -1,1 +1,1 @@
-web: homepagez
+web: ./bin/homepage
