@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg viewBox="0 0 500 500" width="500" height="500" xmlns="http://www.w3.org/2000/svg" xmlns:bx="https://boxy-svg.com">
+  <ellipse style="stroke-opacity: 0; stroke: rgb(98, 115, 164); fill: rgb(98, 115, 164);" cx="249.723" cy="249.446" rx="245.898" ry="245.898" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 5.684341886080802e-14)"/>
+  <ellipse style="fill: rgb(255, 184, 108); stroke-width: 40px; stroke: rgb(68, 71, 90); stroke-opacity: 0;" cx="253.486" cy="260.064" rx="218.986" ry="219.491" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 5.684341886080802e-14)"/>
+  <ellipse style="fill: rgb(248, 248, 242); stroke: rgb(40, 42, 54); stroke-width: 40px;" cx="121.9" cy="308" rx="101.801" ry="101.8" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 5.684341886080802e-14)"/>
+  <ellipse style="fill: rgb(248, 248, 242); stroke: rgb(40, 42, 54); stroke-width: 40px;" cx="377.6" cy="308" rx="101.801" ry="101.8" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 5.684341886080802e-14)"/>
+  <path d="M 233.19 308.055 Q 247.429 279.01 261.668 308.055 L 301.976 390.277 Q 316.215 419.322 287.738 419.322 L 207.12 419.322 Q 178.643 419.322 192.882 390.277 Z" style="stroke: rgb(0, 0, 0); stroke-linecap: round; stroke-opacity: 0; fill: rgb(206, 99, 88);" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 5.684341886080802e-14)" bx:shape="triangle 178.643 279.01 137.572 140.312 0.5 0.207 1@6d872d45"/>
+  <path style="fill: rgb(216, 216, 216); stroke: rgb(40, 42, 54); stroke-width: 30px;" d="M 206.98 295 L 293.02 295 L 206.98 295 Z" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 5.684341886080802e-14)"/>
+  <path style="stroke: rgb(241, 250, 140); stroke-opacity: 0; fill: rgb(255, 231, 108);" d="M 74.636 134.71 L 150.18 167.249 L 151.246 127.272 L 327.636 187.821 L 332.483 129.775 C 332.483 129.775 410.868 166.204 411.813 164.344 C 412.758 162.484 426.054 128.845 426.054 128.845 C 406.878 25.49 86.384 -10.03 74.636 134.71 Z" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 5.684341886080802e-14)"/>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(68, 71, 90); stroke-opacity: 0;" cx="127.142" cy="306.113" rx="64.873" ry="64.913" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 5.684341886080802e-14)"/>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(68, 71, 90); stroke-opacity: 0;" cx="372.8" cy="306.1" rx="64.873" ry="64.913" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 5.684341886080802e-14)"/>
+  <ellipse style="stroke: rgb(0, 0, 0); fill: rgb(98, 115, 164);" transform="matrix(1, 0, 0, 1, 1.1368683772161603e-13, 5.684341886080802e-14)"/>
+</svg>
