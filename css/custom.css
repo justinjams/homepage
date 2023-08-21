@@ -12,7 +12,7 @@ a:hover {
 }
 
 body > .container {
-  margin-top: 20%;
+  margin-top: 20vh;
 }
 
 .name {
@@ -20,7 +20,7 @@ body > .container {
 }
 
 .vector-selfie {
-  width: 100%;
+  max-width: 100%;
 }
 
 .speech-bubble {
@@ -28,8 +28,8 @@ body > .container {
   cursor: default;
   box-sizing: border-box;
   --bbArrowSize: 1.5rem;
-  --bbBorderRadius: 0.1rem;
-  --bbPadding: 1rem;
+  --bbBorderRadius: 0.2rem;
+  --bbPadding: 1rem 3rem;
   background: var(--bbColor);
   border-radius: var(--bbBorderRadius);
   padding: var(--bbPadding);
@@ -39,13 +39,14 @@ body > .container {
   margin-left: var(--bbArrowSize);
   grid-area: lc;
   --bbColor: #44475a;
+  letter-spacing: .01rem;
 }
 
 .speech-bubble::before {
   top: calc(50% - var(--height) / 2);
   clip-path: polygon(0 50%, 100% 12.5%, 100% 87.5%);
   right: calc(100% - 2px);
-  --height: calc(var(--bbArrowSize) / 2 * 3);
+  --height: calc(var(--bbArrowSize) / 2 * 4);
   width: var(--bbArrowSize);
   height: var(--height);
   content: '';
@@ -68,6 +69,12 @@ body > .container {
 }
 
 .contacts {
-  margin: 8px auto;
+  margin: 8px -2px 0 0;
   text-align: center;
+}
+
+@media (max-width: 768px) {
+  .speech-bubble::before {
+    display: none;
+  }
 }
