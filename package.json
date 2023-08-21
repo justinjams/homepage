@@ -6,15 +6,16 @@
   "license": "",
   "author": "",
   "scripts": {
-    "build": "parcel build --out-dir docs index.html",
+    "build": "parcel build --dist-dir docs index.html",
     "dev": "parcel index.html --open",
     "start": "npm run build && npm run dev",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "devDependencies": {
-    "parcel-bundler": "^1.12.4"
-  },
   "dependencies": {
-    "bootstrap-icons": "^1.10.5"
+    "parcel": "^2.9.3"
+  },
+  "devDependencies": {
+    "@parcel/packager-raw-url": "^2.9.3",
+    "@parcel/transformer-webmanifest": "^2.9.3"
   }
 }
